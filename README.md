@@ -2,4 +2,7 @@
 - 👀 I’m interested in web-programming, wanna be fullstack-developer.
 - 🌱 I’m currently learning Angular, GraphQL, Nest, MongoDB.
 - 💞️ I’m looking to collaborate on IT company
-- 📫 How to reach me: kholyavskij@mail.ru
+- 📌 How to reach me: 
+  - email=```kholyavskij@mail.ru```
+  - gmail=```kholyavskij123@gmail.com```
+  - telegram=[Spenkau](#https://t.me/Spenkau)
